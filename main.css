@@ -1,11 +1,9 @@
 html {
-  color: black;
-  background-color: var(--main-bg-color);
   text-shadow: 1px 1px 2px rgb(162, 159, 159);
   text-shadow: inherit;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-  box-shadow: initial;
   font-size: 62.5;
+  --size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
   }
